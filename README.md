@@ -1,4 +1,4 @@
-End-to-End HR Workforce Analytics ETL Project
+Financial Time Series Data Validation Project 
 ## Project Overview
 
 This project demonstrates an end-to-end HR workforce analytics solution, showcasing the full data lifecycle from raw data ingestion to analytics-ready insights. The solution mirrors enterprise HR analytics practices, enabling workforce planning and attrition analysis.
